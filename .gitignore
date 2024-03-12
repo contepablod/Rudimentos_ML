@@ -196,4 +196,8 @@ pyrightconfig.json
 
 Semana1/Data/FraudeCanastas.csv
 Semana2/Data/reduced_images
+Semana3/Data/X_train_hYV2vs5.csv
+Semana3/Data/y_train_Ga8ie3n.csv
+Semana3/Data/X_test_jhAIQq9.csv
+Semana3/Data/y_test_random_5ENWYRq.csv
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
