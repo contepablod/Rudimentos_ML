@@ -203,4 +203,7 @@ Semana3/Data/y_test_random_5ENWYRq.csv
 Semana3/catboost_info
 Semana3/employee_classification copy.ipynb
 Semana3/Data/submission.csv
+Semana4/clustering-pca-k-means-dbscan-hierarchical.ipynb
+Semana4/intro_unsupervised_learning copy.ipynb
+Semana4/UL_CLV_PCA_OK.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
