@@ -206,4 +206,8 @@ Semana3/Data/submission.csv
 Semana4/clustering-pca-k-means-dbscan-hierarchical.ipynb
 Semana4/intro_unsupervised_learning copy.ipynb
 Semana4/UL_CLV_PCA_OK.ipynb
+Semana4/UL_CLV_KMeans_OK.ipynb
+Semana4/UL_CLV_dim_reduction_analysis_OK4.ipynb
+Semana4/UL_CLV_DBSCAN_OK.ipynb
+Semana4/UL_CLV_clustering_analysis_OK3.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
