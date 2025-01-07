@@ -196,23 +196,25 @@ pyrightconfig.json
 
 Semana1/Data/FraudeCanastas.csv
 Semana2/Data/reduced_images
-Semana3/Data/X_train_hYV2vs5.csv
-Semana3/Data/y_train_Ga8ie3n.csv
-Semana3/Data/X_test_jhAIQq9.csv
-Semana3/Data/y_test_random_5ENWYRq.csv
-Semana3/catboost_info
-Semana3/employee_classification copy.ipynb
-Semana3/Data/submission.csv
-Semana3/CatBoost_class.ipynb
-Semana3/Cat_Boost_solver.ipynb
-Semana3/Data/submission_1.csv
-Semana3/gpt+boost.ipynb
-Semana3/submission.csv
-Semana4/clustering-pca-k-means-dbscan-hierarchical.ipynb
-Semana4/intro_unsupervised_learning copy.ipynb
-Semana4/UL_CLV_PCA_OK.ipynb
-Semana4/UL_CLV_KMeans_OK.ipynb
-Semana4/UL_CLV_dim_reduction_analysis_OK4.ipynb
-Semana4/UL_CLV_DBSCAN_OK.ipynb
-Semana4/UL_CLV_clustering_analysis_OK3.ipynb
+
+Semana4/Data/X_train_hYV2vs5.csv
+Semana4/Data/y_train_Ga8ie3n.csv
+Semana4/Data/X_test_jhAIQq9.csv
+Semana4/Data/y_test_random_5ENWYRq.csv
+Semana4/catboost_info
+Semana4/employee_classification copy.ipynb
+Semana4/Data/submission.csv
+Semana4/CatBoost_class.ipynb
+Semana4/Cat_Boost_solver.ipynb
+Semana4/Data/submission_1.csv
+Semana4/gpt+boost.ipynb
+Semana4/submission.csv
+
+Semana3/clustering-pca-k-means-dbscan-hierarchical.ipynb
+Semana3/intro_unsupervised_learning copy.ipynb
+Semana3/UL_CLV_PCA_OK.ipynb
+Semana3/UL_CLV_KMeans_OK.ipynb
+Semana3/UL_CLV_dim_reduction_analysis_OK4.ipynb
+Semana3/UL_CLV_DBSCAN_OK.ipynb
+Semana3/UL_CLV_clustering_analysis_OK3.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
