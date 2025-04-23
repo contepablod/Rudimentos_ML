@@ -211,6 +211,11 @@ Semana3/gpt+boost.ipynb
 Semana3/submission.csv
 Semana3/employee_classification.ipynb
 Semana3/BERT_Encajes.ipynb
+Semana3/Data/dummy_baseline.csv
+Semana3/Data/test_dc2020.h5
+Semana3/Data/test_predictions.csv
+Semana3/Data/train_dc2020.h5
+Semana3/Data/train_labels.csv
 
 Semana4/clustering-pca-k-means-dbscan-hierarchical.ipynb
 Semana4/intro_unsupervised_learning copy.ipynb
